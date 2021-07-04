@@ -1,3 +1,15 @@
-h1{
+body {
     font-family: 'Poppins', sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.purple_color {
+    color: #640364d2;
 }
